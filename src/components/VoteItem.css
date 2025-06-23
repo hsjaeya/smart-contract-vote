@@ -1,0 +1,26 @@
+.VoteItems {
+  padding: 20px 10%;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #e2e2e2;
+  gap: 10px;
+}
+
+.VoteItemNumber {
+  flex: 0 0 10%;
+  text-align: center;
+  font-weight: bold;
+}
+
+.VoteItemTitle {
+  flex: 1 1 72%;
+  text-align: center;
+  word-break: break-word;
+}
+
+.VoteItemDate {
+  flex: 0 0 18%;
+  text-align: right;
+  color: gray;
+  font-size: 0.9em;
+}

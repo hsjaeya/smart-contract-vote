@@ -1,0 +1,45 @@
+.board {
+  justify-content: center;
+  background-color: rgb(228, 224, 224);
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 55px;
+  margin-bottom: 55px;
+  margin-right: 100px;
+  margin-left: 100px;
+  border-radius: 5px;
+}
+.input-with-number {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.item-number {
+  text-align: right;
+}
+
+.board-title {
+  justify-content: center;
+  display: flex;
+}
+
+.custom-input.date-picker {
+  border-width: 0;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.date-picker-board {
+  flex: 1;
+  justify-content: center;
+  display: flex;
+  padding: 15px;
+}

@@ -1,0 +1,16 @@
+.Input {
+  flex: 1;
+  justify-content: center;
+  display: flex;
+  padding: 15px;
+}
+
+.InputItem {
+  border-width: 0;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 15px;
+  border-radius: 5px;
+  text-align: center; /* 텍스트 가운데 정렬 */
+}

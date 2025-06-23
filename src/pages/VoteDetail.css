@@ -1,0 +1,36 @@
+.vote-detail {
+  padding: 20px 10%;
+}
+
+.deadline {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.option {
+  margin: 10px 0;
+  font-size: 1.1em;
+}
+
+.result {
+  color: green;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.vote-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+.voted-mark {
+  color: green;
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+.voted-message {
+  margin-top: 20px;
+  color: blue;
+  font-weight: bold;
+}
